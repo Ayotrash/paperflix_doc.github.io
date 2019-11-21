@@ -22,6 +22,8 @@ module.exports = {
       },
       links: [
         { to: 'docs/doc1', label: 'Docs', position: 'left' },
+        { to: 'docs/developer/overview', label: 'Developer', position: 'left' },
+        { to: 'docs/rest_api/getting_started', label: 'Rest APIs', position: 'left' },
         { to: 'blog', label: 'Blog', position: 'left' },
         {
           href: 'https://github.com/facebook/docusaurus',
