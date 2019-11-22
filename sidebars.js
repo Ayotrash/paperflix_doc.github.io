@@ -11,6 +11,13 @@ module.exports = {
     Features: ['mdx'],
   },
   developer: {
-    INSTALLATION: ['developer/overview', 'developer/release']
+    SUMMARY: [
+      'developer/overview',
+      'developer/release'
+    ],
+    'BACKEND DEVELOPMENT': [
+      'developer/2.backend_development/bd_overview',
+      'developer/2.backend_development/bd_authentication'
+    ]
   }
 };
